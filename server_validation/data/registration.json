@@ -1,0 +1,82 @@
+[
+  {
+    "id": "827a5347-accb-4123-bfb7-0f636cfb646c",
+    "username": "Matteo Guarnaccia",
+    "email": "matteo@guarnaccia.ch",
+    "phone": "+41784059889",
+    "password": "hallo123456",
+    "passwordcontrol": "hallo123456"
+  },
+  {
+    "id": "5eca916f-3128-4ffc-ba99-d6f95a4b4a72",
+    "username": "Matteo Guarnaccia",
+    "email": "matteo@guarnaccia.ch",
+    "phone": "+41784059889",
+    "password": "hallo123456",
+    "passwordcontrol": "hallo123456"
+  },
+  {
+    "id": "b9f00b39-4bd4-451c-af83-22d4851f1690",
+    "username": "Matteo Guarnaccia",
+    "email": "matteo@guarnaccia.ch",
+    "phone": "+41784059889",
+    "password": "hallo123456",
+    "passwordcontrol": "hallo123456"
+  },
+  {
+    "id": "07954a51-7916-492e-a046-1d591f011d1b",
+    "username": "Matteo Guarnaccia",
+    "email": "matteo@guarnaccia.ch",
+    "phone": "+41784059889",
+    "password": "hallo123456",
+    "passwordcontrol": "hallo123456"
+  },
+  {
+    "id": "8e9f289d-8895-4411-b36e-bf5e9836bfbd",
+    "username": "Matteo Guarnaccia",
+    "email": "matteo@guarnaccia.ch",
+    "phone": "+41784059889",
+    "password": "hallo123456",
+    "passwordcontrol": "hallo123456"
+  },
+  {
+    "id": "53fa4aa8-41fb-47f7-ab94-5b4676b42ca8",
+    "username": "Max Mustermann",
+    "email": "max@mustermann.ch",
+    "phone": "+41 78 833 83 83",
+    "password": "123456",
+    "passwordcontrol": "123456"
+  },
+  {
+    "id": "ffe78b63-f646-4fc1-a387-0c0e004d0981",
+    "username": "Anna Hosch",
+    "email": "anna@hosch.ch",
+    "phone": "+41 78 936 64 83",
+    "password": "hallo123",
+    "passwordcontrol": "hallo123"
+  },
+  {
+    "id": "941b7896-8b73-46b5-9526-c2f774578a6f",
+    "username": "Barbara Koch",
+    "email": "barbara@koch.ch",
+    "phone": "+41 79 833 83 73",
+    "password": "barbara187",
+    "passwordcontrol": "barbara187"
+  },
+  {
+    "id": "8dcb0459-2110-44d7-917f-18da468758e8",
+    "username": "Tim Josch",
+    "email": "tim@josch.ch",
+    "phone": "+41 78 733 63 36",
+    "password": "joschTim",
+    "passwordcontrol": "joschTim"
+  },
+  {
+    "id": "cd685c92-2eb9-4f08-989c-e98e52d20968",
+    "username": "Paul Unterleitner",
+    "email": "paul@unterleitner.ch",
+    "phone": "+41 79 577 78 87",
+    "password": "Paul765",
+    "passwordcontrol": "Paul765"
+  }
+]

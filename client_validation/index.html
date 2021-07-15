@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <link rel="stylesheet" href="style/style.css" />
+  <title>Impfung Anmeldeformular</title>
+</head>
+
+<body>
+  <div class="container">
+    <form id="form" class="form">
+      <h2>Anmeldung zur Impfung gegen das Coronavirus</h2>
+
+
+
+      <div class="form-control" id="geschlecht">
+        <p>Geschlecht</p>
+        <div class="radiobutton">
+          <p>Männlich</p><input type="radio" name="geschlecht" value="männlich">
+        </div>
+        <div class="radiobutton">
+          <p>Weiblich</p><input type="radio" name="geschlecht" value="weiblich">
+        </div>
+        <div class="radiobutton">
+          <p>Diverses</p> <input type="radio" name="geschlecht" value="diverses" checked>
+        </div>
+        <small>Error message</small>
+      </div>
+
+
+
+      <div class="form-control">
+        <label for="username">Vorname/ Nachname</label>
+        <input type="text" id="username" placeholder="Vorname/ Nachname einfügen" />
+        <small>Error message</small>
+      </div>
+
+
+
+      <div class="form-control">
+        <label for="geburtstag">Geburtsdatum</label>
+        <input type="date" id="geburtstag" placeholder="Geburtsdatum einfügen">
+        <small>Error message</small>
+      </div>
+
+
+
+      <div class="form-control">
+        <label for="email">Email</label>
+        <input type="text" id="email" placeholder="Email einfügen" />
+        <small>Error message</small>
+      </div>
+
+
+
+      <div class="form-control">
+        <label for="phone">Telefonnummer</label>
+        <input type="tel" id="phone" name="phone" placeholder="Telefonnummer einfügen +41">
+        <small>Error message</small>
+      </div>
+
+
+
+      <div class="form-control">
+        <label for="password">Passwort</label>
+        <input type="password" id="password" placeholder="Passwort einfügen" />
+        <small>Error message</small>
+      </div>
+
+
+
+      <div class="form-control">
+        <label for="passwordcontrol">Passwort bestätigen</label>
+        <input type="password" id="passwordcontrol" placeholder="Passwort bestätigen" />
+        <small>Error message</small>
+      </div>
+
+
+      <button type="submit">Bestätigen</button>
+    </form>
+  </div>
+
+  <script src="script/script.js"></script>
+</body>
+
+</html>
